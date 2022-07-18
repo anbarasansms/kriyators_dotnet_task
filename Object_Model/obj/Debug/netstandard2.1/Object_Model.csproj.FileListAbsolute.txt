@@ -1,0 +1,10 @@
+C:\Users\anbarasan.s\Source\Repos\anbarasansms\kriyators_dotnet_task\Object_Model\bin\Debug\netstandard2.1\Object_Model.deps.json
+C:\Users\anbarasan.s\Source\Repos\anbarasansms\kriyators_dotnet_task\Object_Model\bin\Debug\netstandard2.1\Object_Model.dll
+C:\Users\anbarasan.s\Source\Repos\anbarasansms\kriyators_dotnet_task\Object_Model\bin\Debug\netstandard2.1\Object_Model.pdb
+C:\Users\anbarasan.s\Source\Repos\anbarasansms\kriyators_dotnet_task\Object_Model\obj\Debug\netstandard2.1\Object_Model.csproj.AssemblyReference.cache
+C:\Users\anbarasan.s\Source\Repos\anbarasansms\kriyators_dotnet_task\Object_Model\obj\Debug\netstandard2.1\Object_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anbarasan.s\Source\Repos\anbarasansms\kriyators_dotnet_task\Object_Model\obj\Debug\netstandard2.1\Object_Model.AssemblyInfoInputs.cache
+C:\Users\anbarasan.s\Source\Repos\anbarasansms\kriyators_dotnet_task\Object_Model\obj\Debug\netstandard2.1\Object_Model.AssemblyInfo.cs
+C:\Users\anbarasan.s\Source\Repos\anbarasansms\kriyators_dotnet_task\Object_Model\obj\Debug\netstandard2.1\Object_Model.csproj.CoreCompileInputs.cache
+C:\Users\anbarasan.s\Source\Repos\anbarasansms\kriyators_dotnet_task\Object_Model\obj\Debug\netstandard2.1\Object_Model.dll
+C:\Users\anbarasan.s\Source\Repos\anbarasansms\kriyators_dotnet_task\Object_Model\obj\Debug\netstandard2.1\Object_Model.pdb
